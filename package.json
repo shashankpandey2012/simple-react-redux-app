@@ -54,7 +54,7 @@
     "redux": "^3.6.0",
     "redux-logger": "^2.7.4",
     "redux-saga": "^0.13.0",
-    "sass-loader": "^4.1.1",
+    "sass-loader": "^4.1.1"
   },
   "devDependencies": {
     "babel-core": "^5.8.24",
